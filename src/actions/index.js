@@ -6,7 +6,7 @@ const API_KEY = 'ef328b71e4664319163442c800054e65';
 
 // using the backticks with URL allows us to inject a variable with string interpolation
 // const ROOT_URL = `api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
-const ROOT_URL = `https://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
+const ROOT_URL = `http://api.openweathermap.org/data/2.5/forecast?appid=${API_KEY}`;
 
 // API Call Template 
 // api.openweathermap.org/data/2.5/forecast?q={city name},{country code}
