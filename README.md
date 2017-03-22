@@ -2,4 +2,4 @@ Weather Forecast application that gives users a 5-day forecast for searched citi
 
 Link to API - http://api.openweathermap.org/data/2.5/forecast
 
-![logo](./public/screenshot.png)
+![logo](./public/update.png)
